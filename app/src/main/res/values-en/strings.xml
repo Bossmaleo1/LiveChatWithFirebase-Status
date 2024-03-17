@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeBonCoin</string>
+    <string name="launch_title">sell, buy, near you</string>
+    <string name="search_bottom_view">Research</string>
+    <string name="favorite_bottom_view">Favorites</string>
+    <string name="publish_bottom_view">Publish</string>
+    <string name="message_bottom_view">Messages</string>
+    <string name="account_bottom_view">Account</string>
+    <string name="search_for_leboncoin">Search on leboncoin</string>
+    <string name="retry_leboncoin">Try again</string>
+    <string name="is_connect_error">You are disconnected, please review your connection</string>
+    <string name="network_error">A server error has just occurred</string>
+</resources>

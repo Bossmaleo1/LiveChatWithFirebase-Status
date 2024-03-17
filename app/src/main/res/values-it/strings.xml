@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LeBonCoin</string>
+    <string name="launch_title">Vendi, compra, vicino a te</string>
+    <string name="search_bottom_view">Ricercare</string>
+    <string name="favorite_bottom_view">Preferiti</string>
+    <string name="publish_bottom_view">Pubblicare</string>
+    <string name="message_bottom_view">Messaggi</string>
+    <string name="account_bottom_view">Account</string>
+    <string name="search_for_leboncoin">Cerca su leboncoin</string>
+    <string name="retry_leboncoin">Riprova</string>
+    <string name="is_connect_error">Sei disconnesso, controlla la tua connessione</string>
+    <string name="network_error">Si è appena verificato un errore del server</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--resources>
+    <color name="status_bar">#0e0e0e</color>
+    <color name="primary_gray">#E0E0E0</color>
+    <color name="primary_gray_dark">#9E9E9E</color>
+</resources-->
+<resources>
+    <!-- Logo -->
+    <color name="yellow_logo">@color/yellow400</color>
+    <color name="blue_logo">@color/blue300</color>
+</resources>
